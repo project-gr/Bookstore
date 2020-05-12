@@ -1,0 +1,24 @@
+Book_ID,Book_Name,Author,Price,Amount
+book1,Everything Everything,Nicola Yoon,180,430
+book2,Colorful,Mori Eto,80,200
+book3,The Kite Runner,Khaled Hosseini,109,270
+book4,Hachiko,Luis Prats,500,50
+book5,The Call of the Wild,Jack London,70,56
+book6,One Flew Over the Cuckoos Nest,Ken Kesey,250,302
+book7,Demon Box,Ken Kesey,140,105
+book8,Trilogy of the Rat,Haruki Murakami,321,162
+book9,The Godfather Return,Mario Puzo,125,201
+book10,The Lord of the Rings,J.R.R Tolkien,231,405
+book11,The Great Gatsby,F.Scott Fitzgerald,222,220
+book12,Forrest Gump,Winston Groom,345,45
+book13,Kane and Abel,Jeffrey Archer,80,12
+book14,Madogiwa no Totto-chan,Kuroyanagi Tetsuko,227,10
+book15,Life of Pi,Yann Martel,110,11
+book16,We Ate the Children Last,Yann Martel,120,122
+book17,The Catcher in the Rye,J D Salinger,75,55
+book18,Nine Stories,J D Salinger,87,178
+book19,The Old Man and the Sea,Ernest Hemingway,250,243
+book20,Sherlock Holmes 1,Arthur Conan Doyle,125,125
+book21,Sherlock Holmes 2,Arthur Conan Doyle,125,125
+book22,Sherlock Holmes 3,Arthur Conan Doyle,125,125
+book23,The Da Vinci Code,Dan Brown,135,103
