@@ -1,8 +1,8 @@
-Customer_ID,Customer_Name,Address,Phone,Email
-Customer1,Stella,America,(+84)925361598,stella@gmail.com
-Customer2,Misa,Japan,(+84)258369174,isa@gmail.com
-Customer3,Tom,France,(+84)753951486,tom@gmail.com
-Customer4,Ben,Australia,(+84)369147258,ben@gmail.com
-Customer5,Mari,Korea,(+84)852963147,mari@gmail.com
-Customer6,John,VietNam,(+84)654789321,john@gmail.com
-Customer7,Alex,ThaiLand,(+84)862415397,alex@gmail.com
+Customer_ID,Customer_Name,Cus_username,Cus_password,Address,Street,District,City,Country,Phone,Email
+Customer1,Stella,stella,stella123,248/3,TanSon,TanBinh,TpHCM,VietNam,(+84)925361598,stella@gmail.com
+Customer2,Misa,misa,misa123,27C,CMT8,CaoLanh,DongThap,VietNam,(+84)258369174,isa@gmail.com
+Customer3,Tom,tom,tom123,417/4,HoangHoaTham,BaDinh,Hanoi,VietNam,(+84)753951486,tom@gmail.com
+Customer4,Ben,ben,ben123,35A,DienBienPhu,BinhThanh,TpHCM,VietNam,(+84)369147258,ben@gmail.com
+Customer5,Mari,mari,mari123,125/6,KhaVanCan,ThuDuc,TpHCM,VietNam,(+84)852963147,mari@gmail.com
+Customer6,John,john,john123,47/2/10,HoangQuocViet,CauGiay,Hanoi,VietNam,(+84)654789321,john@gmail.com
+Customer7,Alex,alex,alex123,22B,PhanHuyIch,GoVap,TpHCM,VietNam,(+84)862415397,alex@gmail.com

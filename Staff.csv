@@ -1,4 +1,4 @@
-Staff_ID,Staff_Name
-ITITIU17043,Le Truong Ngan Chau
-ITITIU17075,Le Thi Phuong Linh
-ITITIU17046,Dang Viet Hung
+Staff_ID,Staff_Name,Staff_username,Staff_password,Phone,Email
+ITITIU17043,Le Truong Ngan Chau,ITITIU17043,chauga,(+84)912345678,ltnc@gmail.com
+ITITIU17075,Le Thi Phuong Linh,ITITIU17075,linhlinh,(+84)774185263,ltpl@gmail.com
+ITITIU17046,Dang Viet Hung,ITITIU17046,tuocancut,(+84)745662367,dvh@gmail.com

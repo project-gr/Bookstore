@@ -1,0 +1,24 @@
+Book_ID,Book_Name,Author,Category,Price,Discount,Quantity
+book1,Everything Everything,Nicola Yoon,Romance,180,0,430
+book2,Colorful,Mori Eto,Novel,80,0,200
+book3,The Kite Runner,Khaled Hosseini,Fiction,109,0,270
+book4,Hachiko,Luis Prats,True Story,500,0,50
+book5,The Call of the Wild,Jack London,Fiction,70,0,56
+book6,One Flew Over the Cuckoos Nest,Ken Kesey,Fiction,250,0,302
+book7,Demon Box,Ken Kesey,nonfiction,140,0,105
+book8,Trilogy of the Rat,Haruki Murakami,Novel,321,0,162
+book9,The Godfather Return,Mario Puzo,Fiction,125,0,201
+book10,The Lord of the Rings,J.R.R Tolkien,Fiction,231,0,405
+book11,The Great Gatsby,F.Scott Fitzgerald,Fiction,222,0,220
+book12,Forrest Gump,Winston Groom,Novel,345,0,45
+book13,Kane and Abel,Jeffrey Archer,Fiction,80,0,12
+book14,Madogiwa no Totto-chan,Kuroyanagi Tetsuko,Memoir,227,0,10
+book15,Life of Pi,Yann Martel,Adventure,110,0,11
+book16,We Ate the Children Last,Yann Martel,Short Story,120,0,122
+book17,The Catcher in the Rye,J D Salinger,Fiction,75,0,55
+book18,Nine Stories,J D Salinger,Fiction,87,0,178
+book19,The Old Man and the Sea,Ernest Hemingway,Fiction,250,0,243
+book20,Sherlock Holmes 1,Arthur Conan Doyle,Adventure,125,0,125
+book21,Sherlock Holmes 2,Arthur Conan Doyle,Adventure,125,0,125
+book22,Sherlock Holmes 3,Arthur Conan Doyle,Adventure,125,0,125
+book23,The Da Vinci Code,Dan Brown,Fiction,135,0,103
